@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+.movie-card {
+    display: inline-block;
+    margin: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 220px;
+}
+
+.movie-card img {
+    width: 200px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+#userInfo {
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
